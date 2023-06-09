@@ -1,0 +1,6 @@
+<html lang="pt-BR"> <head> <meta charset="UTF-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SSS - O Santo Sábado do Senhor</title><meta property="og:title" content="SSS - O Santo Sábado do Senhor"/><meta property="og:locale" content="pt_BR" /><link rel="canonical" href="https://jeferson-jose.github.io/" /><meta property="og:url" content="https://jeferson-jose.github.io/" /><meta property="og:site_name" content="SSS - O Santo Sábado do Senhor" /><meta property="og:type" content="website" /><meta name="twitter:card" content="summary" /><meta property="twitter:title" content="SSS - O Santo Sábado do Senhor" /><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","headline":"jeferson-jose.github.io","name":"jeferson-jose.github.io","url":"https://jeferson-jose.github.io/"}</script>
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+</head> <body> <h1><a href="https://jeferson-jose.github.io/">SSS - O Santo Sábado do Senhor</a></h1> 
+<h1>Deus seja louvado </h1>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script> <script>anchors.add();</script> </body></html>
